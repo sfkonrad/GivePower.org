@@ -1,2 +1,2 @@
-# [GivePower.org](www.GivePower.org)
-KonradK's [GivePower.org](www.GivePower.org) repository 
+# [GivePower.org](https://www.givepower.org/)
+KonradK's [GivePower.org](https://www.givepower.org/) repository 
