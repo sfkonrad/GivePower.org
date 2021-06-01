@@ -1,9 +1,9 @@
 # [GivePower.org](https://www.givepower.org/)
 KonradK's [GivePower.org](https://www.givepower.org/) repository 
 
-# CLEAN WATER
-# THROUGH
-# CLEAN ENERGY
+# **CLEAN WATER**
+## THROUGH
+# **CLEAN ENERGY**
 
  
 
