@@ -2,7 +2,7 @@
 KonradK's [GivePower.org](https://www.givepower.org/) repository 
 
 # **CLEAN WATER**
-## THROUGH
+# THROUGH
 # **CLEAN ENERGY**
 
  
